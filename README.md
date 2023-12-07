@@ -1,4 +1,4 @@
-# Insurance Premium Prediction Using Machine Learning, Streamlit, Amazon EC2, Docker, Git Version Control
+## Insurance Premium Prediction Using Machine Learning, Streamlit, Amazon EC2, Docker, Git Version Control
 
 **Project Details**
 
@@ -9,9 +9,13 @@ Built Machine learning model and streamlit web web application for Insurance Pre
 Various Data Pipelines are Built for various Stages involved in my Project
 
 1.Data Ingestion
+
 2.Data Validation
+
 3.Data Transformation
+
 4.Model Training
+
 5.Model Evaluation
 
 **Project Architecture**
